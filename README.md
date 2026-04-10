@@ -22,3 +22,6 @@ CSV -> DataFrame -> Analysis -> Insights -> Formatting -> PDF -> Output
 
 I've used the cricket data for this report generation using python. You can go with any other dataset to create the report/pdf. I've used reportlab library for creating the pdf. You can either use reportlab or fpdf for generating the pdf/report for any dataset you need.
 
+Output:
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d34920bb-cf5c-4e11-9d9e-0aa4076372a2" />
